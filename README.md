@@ -47,6 +47,14 @@ networks:
 
 ```
 
-Direct your browser to http://localhost
+---
+
+1. Run the command below :
+
+```
+docker-compose up -d
+```
+
+2. Direct your browser to http://localhost
 
 Note that port 80 must be open and not in use
