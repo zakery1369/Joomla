@@ -4,7 +4,7 @@
 
 ### Configure docker-compose.yml
 
-```
+```bash
 version: '3.5'
 
 services:
@@ -51,7 +51,7 @@ networks:
 
 1. Run the command below :
 
-```
+```bash
 docker-compose up -d
 ```
 
