@@ -1,6 +1,6 @@
 # Joomla
 
-![joomla](https://github.com/zakery1369/pics/blob/master/Joomla.jpg?raw=true)
+![joomla](https://raw.githubusercontent.com/zakery1369/pics/master/Joomla.jpg)
 
 ### Configure docker-compose.yml
 
